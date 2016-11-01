@@ -1,5 +1,5 @@
-# hashidentifier
-A Python scrypt to identify tha hash type. Support all the most common algorithms used to encrypt passwords and data.
+hash # hashidentifier
+A Python scrypt to identify tha hash type. Support all the most common hash algorithms used to encrypt passwords and data.
 
 Encryption formats supported:
 ADLER-32
